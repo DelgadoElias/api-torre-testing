@@ -54,7 +54,7 @@
 
 
   const { Experience } = sequelize.models;
-      console.log(sequelize.models);
+    //   console.log(sequelize.models);
 
 
   // ***********************************************************
